@@ -1,2 +1,2 @@
-# Cypress_avan-adp
-Curso da TAT sobre cypress avançado
+# Cypress_intermediario
+Curso da TAT sobre cypress intermediario
